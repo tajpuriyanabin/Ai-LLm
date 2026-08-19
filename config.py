@@ -1,0 +1,11 @@
+OLLAMA_MODEL = "llama3.2"
+TEMPERATURE = 0.2
+
+EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+EMBEDDING_DEVICE = "cpu"
+
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 100
+
+TOP_K = 3
+COLLECTION_NAME = "offline_rag_docs"

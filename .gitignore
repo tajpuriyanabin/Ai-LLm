@@ -1,0 +1,10 @@
+(
+echo venv/
+echo .venv/
+echo __pycache__/
+echo *.pyc
+echo chroma_db/
+echo .env
+echo .DS_Store
+echo Thumbs.db
+) > .gitignore
