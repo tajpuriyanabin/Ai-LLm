@@ -8,5 +8,15 @@
     "display_name": "Maya gurung",
     "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "created_at": "2026-08-20 12:55:01"
+  },
+  "himal369": {
+    "display_name": "Himal",
+    "password_hash": "e46e89d5a1894e85242b918e9fa63f351b6edb6959f9c6f48c14ba12e77f6b2e",
+    "created_at": "2026-08-22 23:58:11"
+  },
+  "nabint": {
+    "display_name": "Nabin Tajpuriya",
+    "password_hash": "89cfad9a346794bb496432b5d20dec9dca1145822a9c6cf6c03833636e5c0b45",
+    "created_at": "2026-08-23 22:14:44"
   }
 }

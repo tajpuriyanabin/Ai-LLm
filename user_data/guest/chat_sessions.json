@@ -1,0 +1,41 @@
+{
+  "session_1": {
+    "title": "summarize",
+    "messages": [
+      {
+        "role": "user",
+        "content": "summarize",
+        "sources": []
+      },
+      {
+        "role": "assistant",
+        "content": "I cannot find the answer based on the provided documents.",
+        "sources": [
+          {
+            "source": "DSAP Imp.pdf",
+            "page": "3",
+            "content": "Chapter Foukier Sehies SpechralCocpicieab Proces f CatoulohingPuntr Serus CeerfieieA Chapter .S:Fouaier Iransjorm Disorele! Time Fownier Tnansfoim  Maaniude & Phase. Spechrum. Chapter Enerex & Rcer. Calculahe ene&x & povoes dgnal Passevai's Sheorem. Chapter 7: DFT & PPT DETDepn Tto 8 mak) Zero Padding? Need fopDPT Hos fast is fft? guus>NImp Chapter 1 di 12, Nst flat Kmp.."
+          },
+          {
+            "source": "DSAP Imp.pdf",
+            "page": "2",
+            "content": "[6 maxk] [Chapter- :Ztransform Convoluim ROC 3marks CSure Cuestiom] Property . 72 chaina reInverge Z-transy C24 to - 22 manks] Chapter :Digital Eiter Desgn IIR Ealter Desi C12-0) 'ImpulseInvarianicemethod b.Brlinear trapsfer mat'm methad. X. Appreimaim technique. a. Butfericerth W-Vmp b. Chehyshey NoT C. Caver/ ellipf'c . Gebh's Oseillahm. RERURED d. Bessel Thempsom  Opfmum filker. 3.Spedisl transformaffm, in Zrdornin Beimearfoansfemahame FIRBelter Design （8-19 IWindowing than ofhers ? a. LWiadea': Reotan&alel BarHett/ Triangelay Blaakmann Hammin? Hannind Kais er- VVImp. Q. filfer design using ainde Parks Macellan /A(ternafim) Opdmam foPer"
+          },
+          {
+            "source": "DSAP Imp.pdf",
+            "page": "1",
+            "content": "DSAP: [ 6 marks] Chaptera .Energy and pawer signal . Check cohether the serol 's periadic or ngt. & alculake penid. 。Calculate energy of the syshem.  Piot the giensystem S。 What is ramp sgnal ? Lo Uah step sgral, usit impultse sg nl  Expanenhial sgnal , sinusoidal sgnal . Depn' coith exnple LPlot) Vinp 。 &ven and-odd park f signal [6  mank] Chapter 3il Linear Time Invariant Sstem!  Check linearity Hime inusriance. 。 Deeine LI, Cenvoluom Wmp 。 Cenvolutm Numercal ie: olp g C sg sten Matheimatieal , Ganaphical), 0 verlap & Add : Aisocheck theanscer Chapter 10:Frequency Response C8-10 marks]  Plot the magnihede and phase dpectrum g the Qiven signal. Chapter ii: Realizabon of Digital Rilters E8-12 mank J 。DEI &DFStrucfuire Cymarkj . Lathie sfructure of an PIR filteri all pele (all zero /"
+          }
+        ]
+      }
+    ],
+    "indexed_files_info": {
+      "file_count": 1,
+      "chunk_count": 4,
+      "page_range": "Pages 1–3",
+      "file_names": [
+        "DSAP Imp.pdf"
+      ]
+    }
+  }
+}
